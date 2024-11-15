@@ -7,4 +7,4 @@ redirect_from:
   - /file_archive
 ---
 
-[RSAC](/assets/pdf/rsac_sz.pdf)
+[RSAC](/assets/rsac_sz.pdf)
